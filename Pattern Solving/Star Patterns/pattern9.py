@@ -9,7 +9,7 @@ class Pattern9:
                 if j > i:
                     print(" ", end = ' ')
                 else:
-                    print(j, end = ' ')
+                    print("*", end = ' ')
             print("")
        
 if __name__ == "__main__":

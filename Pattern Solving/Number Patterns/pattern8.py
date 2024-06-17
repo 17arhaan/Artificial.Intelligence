@@ -9,7 +9,7 @@ class Pattern8:
                 if j > i:
                     print(" ", end = ' ')
                 else:
-                    print(j, end = ' ')
+                    print(i, end = ' ')
             print("")
        
 if __name__ == "__main__":
