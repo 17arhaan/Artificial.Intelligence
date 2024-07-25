@@ -1,5 +1,5 @@
 <h1>
-  Welcome to The Python repository! 
+  Welcome to The Python Repository!
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,13 +20,21 @@
 <br/>
 ➙  Real-world applications showcasing how AI can be used to solve practical problems.
 <br/>
-<h3>Django Projects</h3>
+<h3>Data Structures and Algorithms (DSA)</h3>
 
-➙  Sample projects and tutorials demonstrating the power of Django for web development.
+➙  Comprehensive guides and tutorials on essential data structures and algorithms in Python.
 <br/>
-➙  Step-by-step guides to building web applications using Django, covering models, views, templates, forms, authentication, and deployment.
+➙  Practical examples and implementations of data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables.
 <br/>
-➙  Advanced Django topics like RESTful APIs with Django REST framework, integrating with front-end frameworks, and performance optimization.
+➙  Algorithm implementations including sorting, searching, dynamic programming, and graph algorithms.
+<br/>
+<h3>Pattern Solving</h3>
+
+➙  Tutorials and examples of common coding patterns and problem-solving techniques.
+<br/>
+➙  Focus on patterns such as two-pointer, sliding window, divide and conquer, and backtracking.
+<br/>
+➙  Example problems and solutions to illustrate the application of these patterns in various scenarios.
 <br/>
 <h2>Key Features</h2>
 
@@ -50,10 +58,6 @@
 2. **Navigate to a Project**: Explore the `Python` directory to find the project you want to work on.
 3. **Follow the Instructions**: Each project folder contains a `README.md` with setup instructions and detailed information.
 4. **Learn and Contribute:** Use the repository as a learning resource and feel free to contribute by submitting issues, pull requests, or suggestions.
-5. **Run the Project**: Follow the setup instructions to run the project locally using
-   ```bash
-    npm start
-    ```
 
 ***License***
 <br/>
