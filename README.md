@@ -53,7 +53,7 @@
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/17arhaan/Python.git
+    git clone https://github.com/17arhaan/AI_Python.git
     ```
 2. **Navigate to a Project**: Explore the `Python` directory to find the project you want to work on.
 3. **Follow the Instructions**: Each project folder contains a `README.md` with setup instructions and detailed information.
@@ -64,7 +64,7 @@
 This repository is licensed under the MIT License. See the LICENSE.md for more details.
    
   ```bash
-    https://github.com/17arhaan/Python/LICENSE.md
+    https://github.com/17arhaan/AI_Python/LICENSE.md
    ```
 
 <a href="https://github.com/17arhaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
